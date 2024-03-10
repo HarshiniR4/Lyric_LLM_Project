@@ -31,3 +31,7 @@ streamlit run emotion_chatbot.py
 
 # Output
 ![Streamlit Output](https://github.com/HarshiniR4/Lyric_LLM_Project/blob/main/output/Streamlit%20Recommendation%20output%201.png)
+(![image](https://github.com/HarshiniR4/Lyric_LLM_Project/assets/59364581/017fa257-0235-4a2c-bf59-16826e31b031)
+![image](https://github.com/HarshiniR4/Lyric_LLM_Project/assets/59364581/d1b1623a-36c8-4cc7-8de7-9c0a4c48d4de)
+
+)
