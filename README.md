@@ -1,8 +1,10 @@
-<h2 align="center"># Lyric_LLM_Project</h2>
+<h2 align="center"> Emotion Based Playlist Recommender Project - using Langchain</h2>
 
 # Aim: 
 
-Developing an RAG using the Langchain LLMs and HuggingFaceHub model to perform sentiment analysis on BTS songs lyrics translations and suggest a playlist and set of quotes from the songs according to the user's emotions.
+Humble attempt at inducing more emotion-based personalization in playlist recommendation (similar to Spotify's Daylists). 
+
+So I developed a RAG using the Langchain LLMs and HuggingFaceHub model to perform sentiment analysis on BTS songs lyrics translations and suggest a playlist and set of quotes from the songs according to the user's emotions.
 
 # Libraries Required:
 - Langchain 
