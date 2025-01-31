@@ -35,3 +35,8 @@ streamlit run emotion_chatbot.py
 ![Streamlit Output](https://github.com/HarshiniR4/Lyric_LLM_Project/blob/main/output/Streamlit%20Recommendation%20output%201.png)
 ![image](https://github.com/HarshiniR4/Lyric_LLM_Project/assets/59364581/9d80d909-64ac-477c-8fa1-88bfe7b29341)
 
+
+# Furture Improvements
+
+- Use feedback loop mechanisms to understand user's listening patterns to decipher emotion based recommendation better
+- Develop an interactive and fun frontend
