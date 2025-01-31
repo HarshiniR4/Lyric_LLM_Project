@@ -6,6 +6,8 @@ Humble attempt at inducing more emotion-based personalization in playlist recomm
 
 So I developed a RAG using the Langchain LLMs and HuggingFaceHub model to perform sentiment analysis on BTS songs lyrics translations and suggest a playlist and set of quotes from the songs according to the user's emotions.
 
+<img src= "https://github.com/HarshiniR4/Lyric_LLM_Project/assets/59364581/9d80d909-64ac-477c-8fa1-88bfe7b29341" alt="Streamlit Output" width=450px>
+
 # Libraries Required:
 - Langchain 
 - NLTK
@@ -31,9 +33,8 @@ Clone the repository and run the emotion_chatbot.py file using Streamlit
 streamlit run emotion_chatbot.py
 ```
 
-# Output
-![Streamlit Output](https://github.com/HarshiniR4/Lyric_LLM_Project/blob/main/output/Streamlit%20Recommendation%20output%201.png)
-![image](https://github.com/HarshiniR4/Lyric_LLM_Project/assets/59364581/9d80d909-64ac-477c-8fa1-88bfe7b29341)
+<img src= "https://github.com/HarshiniR4/Lyric_LLM_Project/blob/main/output/Streamlit%20Recommendation%20output%201.png" alt="Streamlit Output" width=500px>
+
 
 
 # Furture Improvements
